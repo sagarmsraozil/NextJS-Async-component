@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+public
+coverage
+.next
+
+# Ignore all HTML files:
+*.html
+
+# Ignore some code
+src/assets/sass/utilities/bootstrap
